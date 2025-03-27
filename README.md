@@ -49,6 +49,9 @@ The dataset comprises multiple demographic variables to analyse bike purchase be
 ### Dashboard and Visualisations:
 The project utilises pivot tables and interactive charts to summarise the relationships between income, age, bike purchase status, and other demographic factors. This enables stakeholders to quickly understand trends and make informed decisions.
 
+![image](https://github.com/user-attachments/assets/ee0baad5-0db4-4efd-a683-51490e6b1b6d)
+
+
 ### Conclusion:
 To drive more bike sales, the company should target the **Middle Age** demographic (30-50 years), as they are the biggest purchasers, particularly those with short commutes (0-1 miles). Additionally, marketing efforts should focus on homeowners and individuals with higher educational backgrounds. Tailored campaigns for these segments would likely result in higher conversion rates.
 
