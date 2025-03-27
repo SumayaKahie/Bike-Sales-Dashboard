@@ -15,8 +15,8 @@ The dataset comprises multiple demographic variables to analyse bike purchase be
 - **Age Brackets**: Categorised age ranges for analysis (e.g., Adolescence, Middle Age, Old).
 - **Purchased Bike**: Whether the customer purchased a bike (Yes/No).
 
-- Format on Marrital Status, Age, Income, Education and Commute distance were changed.
-- Formulas used to edit raw data (Age)
+# Format on Marrital Status, Age, Income, Education and Commute distance were changed.
+# Formulas used to edit raw data (Age)
 - Age Bracket: =IF(L2>55,"Old",IF(L2>=31,"Middle Age",IF(L2<31,"Adolescence","Invalid")))
 
 ### Key Performance Indicators (KPIs):
