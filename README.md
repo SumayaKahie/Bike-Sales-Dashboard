@@ -1,5 +1,5 @@
 # Project Title: Bike Purchase Analysis by Demographic Factors
-The objective of this project is to analyse the relationship between bike purchases and demographic factors.
+I developed this project with the objective of project analysing the relationship between bike purchases and demographic factors.
 Dataset:
 The dataset comprises multiple demographic variables to analyse bike purchase behaviour. The following attributes were included:
 
