@@ -1,4 +1,4 @@
-# Bike-Sales-Dashboard
+# Project Title: Bike Purchase Analysis by Demographic Factors
 The objective of this project is to analyse the relationship between bike purchases and demographic factors.
 Dataset:
 The dataset comprises multiple demographic variables to analyse bike purchase behaviour. The following attributes were included:
@@ -15,10 +15,16 @@ The dataset comprises multiple demographic variables to analyse bike purchase be
 - **Age Brackets**: Categorised age ranges for analysis (e.g., Adolescence, Middle Age, Old).
 - **Purchased Bike**: Whether the customer purchased a bike (Yes/No).
 
+- Format on Marrital Status, Age, Income, Education and Commute distance were changed.
+- Formulas used to edit raw data (Age)
+- Age Bracket: =IF(L2>55,"Old",IF(L2>=31,"Middle Age",IF(L2<31,"Adolescence","Invalid")))
+
 ### Key Performance Indicators (KPIs):
+- In Pivot Table:
 - **Average Income by Demographic Factors**: Examining income distribution across different variables such as gender, age, and occupation.
 - **Bike Purchase Behaviour by Commute Distance**: Analysing how commute distance impacts bike purchases.
 - **Bike Purchases by Age Group**: Understanding bike purchase behaviour based on age brackets.
+- In slicer:
 - **Impact of Home Ownership on Bike Purchases**: Analysing whether homeownership influences the likelihood of purchasing a bike.
 - **Education and Occupation Impact on Purchases**: Investigating whether education or occupation plays a role in bike purchase decisions.
 
@@ -31,7 +37,6 @@ The dataset comprises multiple demographic variables to analyse bike purchase be
 
 #### Bike Purchases by Age Group:
 - The **Middle Age** group (30-50 years) had the highest number of bike purchases (739), followed by the **Old** group (50+ years) with 175 purchases. The **Adolescence** group (18-29 years) had the fewest purchases (112).
-
 
 #### Education & Occupation:
 - There was a positive correlation between higher education levels (college degrees or above) and an increased likelihood of purchasing bikes. Occupations such as professionals and managers exhibited a higher tendency to purchase bikes.
