@@ -3,6 +3,9 @@ The objective of this project is to analyse the relationship between bike purcha
 Dataset:
 The dataset comprises multiple demographic variables to analyse bike purchase behaviour. The following attributes were included:
 
+## Dataset used
+-  <a href="https://github.com/SumayaKahie/Bike-Sales-Dashboard/blob/main/Bike%20Sales%20.xlsx">Dataset
+
 - **Income**: The income level of customers.
 - **Children**: The number of children the customer has.
 - **Education**: The education level of the customer.
