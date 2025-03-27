@@ -31,6 +31,8 @@ The dataset comprises multiple demographic variables to analyse bike purchase be
 - **Impact of Home Ownership on Bike Purchases**: Analysing whether homeownership influences the likelihood of purchasing a bike.
 - **Education and Occupation Impact on Purchases**: Investigating whether education or occupation plays a role in bike purchase decisions.
 
+-  <a href="https://github.com/SumayaKahie/Bike-Sales-Dashboard/blob/main/Bike%20Sales%20Dashboard.png">Dashboard
+
 ### Insights:
 #### Income Analysis:
 - Female customers had an average income of $54,331, while male customers had a higher average income of $58,000. The overall average income across all customers is $56,209.
